@@ -1,5 +1,7 @@
 # YelpCamp
-This is a basic full-stack application concerning web development basics. Yelpcamp allows user to create and comment different campgrounds. Users can *Sign Up* and use that account to create their desired campground (specifying the required fields) or comment on existing campgrounds. To check out the demo, click [here](https://sleepy-reef-11207.herokuapp.com) (create your own account and feel free to add anything).
+This is a basic full-stack application concerning web development basics. Yelpcamp allows user to create and comment different campgrounds. Users can *Sign Up* and use that account to create their desired campground (specifying the required fields) or comment on existing campgrounds. 
+
+To check out the demo, click [here](https://sleepy-reef-11207.herokuapp.com) (create your own account and feel free to add anything).
 
 The application was developed using: Node.js, Express, MongoDB, and Bootstrap. As well as Passport.js to handle authentication.
 
@@ -11,6 +13,7 @@ The application was developed using: Node.js, Express, MongoDB, and Bootstrap. A
 
 ## Running it locally
 > Current code is set for deployment, to run locally: uncomment this [line](https://github.com/RVS97/YelpCamp/blob/master/app.js#L18) and comment the one [beneath](https://github.com/RVS97/YelpCamp/blob/master/app.js#L19)
+
 To run it locally:
 1. Install [MongoDB](https://www.mongodb.com/)
 2. Move into the directory and run *mongod* to start the mongo daemon (if you have permission issues make sure to make accesible with chmod +x)
