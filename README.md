@@ -14,12 +14,14 @@ To run it locally:
 1. Install [MongoDB](https://www.mongodb.com/)
 2. Move into the directory and run *mongod* to start the mongo daemon (if you have permission issues make sure to make accesible with chmod +x)
 ```cd YelpCamp
-./mongod```
+./mongod
+```
 3. Install libraries and run application
 ```npm install
-npm start```
+npm start
+```
 
 ## Landing Page
-
+![Landing](https://github.com/RVS97/YelpCamp/blob/master/Landing.PNG)
 
 > This project is developed as part of the web development course, [The Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp/)
