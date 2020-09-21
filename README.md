@@ -27,6 +27,8 @@ npm install
 npm start
 ```
 
+Open [http://localhost:3000](http://localhost:3000) in the browser to see the running application.
+
 ## Landing Page
 ![Landing](https://github.com/RVS97/YelpCamp/blob/master/Landing.PNG)
 
