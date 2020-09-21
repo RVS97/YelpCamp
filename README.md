@@ -16,7 +16,7 @@ The application was developed using: Node.js, Express, MongoDB, and Bootstrap. A
 
 To run it locally:
 1. Install [MongoDB](https://www.mongodb.com/)
-2. Move into the directory and run *mongod* to start the mongo daemon (if you have permission issues make sure to make accesible with chmod +x)
+2. Move into the directory and run *mongod* to start the mongo daemon (if you have permission issues make sure to make accesible with *chmod +x*)
 ```
 cd YelpCamp
 ./mongod
